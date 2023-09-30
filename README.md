@@ -6,7 +6,7 @@ The objective is to copy data from ROM area, starting from address 0x00 to 0x100
 
 
 ### Project Setting
-1. Install `uVision7`.
+1. Install `Keil uVision7`.
 2. Use target `ARM7`.
 3. Register an `.ini` file in the Debug menu.   
 
